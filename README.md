@@ -1,8 +1,8 @@
 ## Hi, I'm Adrian Rocha👋
 
-I am a committed and responsible young programmer, currently pursuing my degree in Software Engineering. I specialize in backend development and also support frontend tasks. I have worked on both web and mobile applications, ensuring high-quality and efficient solutions.
+<p>I am a committed and responsible young programmer, currently pursuing my degree in Software Engineering. I specialize in backend development and also support frontend tasks. I have worked on both web and mobile applications, ensuring high-quality and efficient solutions.</p>
 
-About Me
+<h2>About Me</h2>
 
 🏫 I'm studying at the Technological University of Durango
 🧑‍💻 I love using Software as a solution for every problem.
