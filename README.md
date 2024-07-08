@@ -3,6 +3,7 @@
 I am a committed and responsible young programmer, currently pursuing my degree in Software Engineering. I specialize in backend development and also support frontend tasks. I have worked on both web and mobile applications, ensuring high-quality and efficient solutions.
 
 About Me
+
 🏫 I'm studying at the Technological University of Durango
 🧑‍💻 I love using Software as a solution for every problem.
 🧑‍🎓 I’m currently learning Software Engineering.
