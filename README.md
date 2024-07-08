@@ -1,11 +1,6 @@
 ## Hi, I'm Adrian Rocha👋
 
-<!--
-**adrianrochacon10/adrianrochacon10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I am a junior programmer currently pursuing my degree in Software Engineering. Over the past two years, I have gained experience working with both web and mobile applications, specializing in both FrontEnd and BackEnd development. I consider myself responsible and disciplined in my work.
+I am a committed and responsible young programmer, currently pursuing my degree in Software Engineering. I specialize in backend development and also support frontend tasks. I have worked on both web and mobile applications, ensuring high-quality and efficient solutions.
 
 About Me
 🏫 I'm studying at the Technological University of Durango
