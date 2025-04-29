@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:30">🧰 Languages and Tools</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🧰 Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,django,py,html,css,tailwind,nextjs,figma,git,vscode,mongodb,postgres,aws,firebase,mysql,notion,npm,postman&perline=7" />
@@ -30,9 +30,7 @@
 
 ---
 
-## 📫 Connect with Me
-
-
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>📫 Connect with Me</h2>
 
 
 <p>
