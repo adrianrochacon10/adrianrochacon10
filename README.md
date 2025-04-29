@@ -32,13 +32,18 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
 
 <p align="center">
-<a href="https://www.instagram.com/adrian_roc6" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+<h2 align="center">🤝 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/adrian_roc6" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" style="border-radius: 12px; background-color: #f09433; padding: 4px; margin-right: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-rocha-169715318" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="border-radius: 12px; background-color: #0077b5; padding: 4px; margin-right: 10px;" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61559059545867" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="48" height="48" style="border-radius: 12px; background-color: #1877f2; padding: 4px;" />
   </a>
+</p>
+
 </p>
