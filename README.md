@@ -21,7 +21,7 @@
 
 ---
 
-##<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🧰 Languages and Tools</h2>
+##<h2 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🧰 Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,django,py,html,css,tailwind,nextjs,figma,git,vscode,mongodb,postgres,aws,firebase,mysql,notion,npm,postman&perline=7" />
