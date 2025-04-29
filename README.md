@@ -9,6 +9,8 @@
   <em>I believe in clean code, continuous learning, and turning ideas into efficient solutions.</em>
 </p>
 
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -19,6 +21,9 @@
 - 📚 Currently improving my skills in APIs, databases, and server-side development.
 - 🚀 Always curious and eager to learn more about backend architecture and cloud technologies.
 
+
+
+
 ---
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Languages and Tools</h2>
@@ -28,8 +33,8 @@
 </p>
 
 
----
----
+
+
 ---
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
