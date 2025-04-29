@@ -32,9 +32,13 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
 
 <p align="center">
- <a href="https://www.instagram.com/adrian_roc6?igsh=ZThzbDl2OWttZTV6&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+<a href="https://www.instagram.com/adrian_roc6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" style="margin-right: 15px;" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-rocha-169715318" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=61559059545867" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right: 15px;" />
+  </a>
+</p>
