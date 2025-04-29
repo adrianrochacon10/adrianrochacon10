@@ -9,6 +9,8 @@
   <em>I believe in clean code, continuous learning, and turning ideas into efficient solutions.</em>
 </p>
 
+<br>
+
 ## 👨‍💻 About Me
 
 - 🎓 I’m pursuing a degree in **Software Engineering** at the <a href="https://utdurango.edu.mx/" target="_blank">Technological University of Durango</a>.
@@ -17,18 +19,23 @@
 - 📚 Currently improving my skills in APIs, databases, and server-side development.
 - 🚀 Always curious and eager to learn more about backend architecture and cloud technologies.
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Languages and Tools</h2>
+<br>
+
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,django,py,html,css,tailwind,nextjs,figma,git,vscode,mongodb,postgres,aws,firebase,mysql,notion,npm,postman&perline=7" />
 </p>
 
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
+<br>
+
+<h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
- <a href="https://www.instagram.com/adrian_roc6?igsh=ZThzbDl2OWttZTV6&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/adrian_roc6?igsh=ZThzbDl2OWttZTV6&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-rocha-169715318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
