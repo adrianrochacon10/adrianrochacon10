@@ -21,7 +21,7 @@
 
 ---
 
-## 🧰 Languages and Tools
+## <h1>🧰 Languages and Tools</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,django,py,html,css,tailwind,nextjs,figma,git,vscode,mongodb,postgres,aws,firebase,mysql,notion,npm,postman&perline=7" />
