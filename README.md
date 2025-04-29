@@ -32,9 +32,6 @@
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
 
 <p align="center">
-<h2 align="center">🤝 Connect with Me</h2>
-
-<p align="center">
   <a href="https://www.instagram.com/adrian_roc6" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" style="border-radius: 12px; background-color: #f09433; padding: 6px; margin-right: 10px;" />
   </a>
@@ -44,6 +41,4 @@
   <a href="https://www.facebook.com/profile.php?id=61559059545867" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="48" height="48" style="border-radius: 12px; background-color: #ffffff; padding: 6px;" />
   </a>
-</p>
-
 </p>
