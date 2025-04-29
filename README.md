@@ -23,7 +23,7 @@
 
 ## 🧰 Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -39,8 +39,8 @@
 ## 📫 Connect with Me
 
 <p>
-  <a href="mailto:adrianrochacon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+ <a href="https://www.instagram.com/yourinstagram" target="_blank">
+    <img src="https://www.instagram.com/adrian_roc6?igsh=ZThzbDl2OWttZTV6&utm_source=qr" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-rocha-169715318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
