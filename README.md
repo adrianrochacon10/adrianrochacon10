@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🧰 Languages and Tools</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Languages and Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,django,py,html,css,tailwind,nextjs,figma,git,vscode,mongodb,postgres,aws,firebase,mysql,notion,npm,postman&perline=7" />
@@ -29,11 +29,13 @@
 
 
 ---
+---
+---
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫 Connect with Me </h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
 
 
-<p>
+<p align="center">
  <a href="https://www.instagram.com/adrian_roc6?igsh=ZThzbDl2OWttZTV6&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
   </a>
