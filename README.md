@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;>📫 Connect with Me</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫 Connect with Me </h2>
 
 
 <p>
