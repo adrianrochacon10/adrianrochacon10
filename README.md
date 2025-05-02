@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/adrian_roc6" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" style="border-radius: 12px; background-color: #f09433; padding: 3px; margin-right: 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/adrian-rocha-169715318" target="_blank">
+  <a href="https://www.linkedin.com/in/adrian-rocha-chacon" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="border-radius: 12px; background-color: #0077b5; padding: 3px; margin-right: 10px;" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61559059545867" target="_blank">
