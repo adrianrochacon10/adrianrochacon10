@@ -14,6 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I’m pursuing a degree in **Software Engineering** at the <a href="https://utdurango.edu.mx/" target="_blank">Technological University of Durango</a>.
+- 👾 I have participated in some hackathons<a href="https://devpost.com/adrianrochacon" target="_blank">DevPost</a>
 - 🛠️ My goal is to become a **Backend Specialist**.
 - 💡 I enjoy using technology to solve real-world problems.
 - 📚 Currently improving my skills in APIs, databases, and server-side development.
