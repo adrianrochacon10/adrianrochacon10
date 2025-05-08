@@ -43,19 +43,6 @@
     border-radius: 10px;
     font-family: 'Segoe UI', sans-serif;
     transition: background 0.3s ease;">
-    
-    <span style="
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      background-color: #2c3e50;
-      border-radius: 6px;
-      width: 24px;
-      height: 24px;
-      font-size: 14px;
-      color: white;">
-      🌐
-    </span>
     VIEW MY PORTFOLIO
   </a>
 </p>
