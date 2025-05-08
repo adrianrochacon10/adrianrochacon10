@@ -30,6 +30,39 @@
 
 <br>
 
+<p align="center" style="margin-top: 20px;">
+  <a href="https://github.com/adrianrochacon" target="_blank" style="
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 20px;
+    background-color: #8e44ad;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: 'Segoe UI', sans-serif;
+    transition: background 0.3s ease;">
+    
+    <span style="
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #2c3e50;
+      border-radius: 6px;
+      width: 24px;
+      height: 24px;
+      font-size: 14px;
+      color: white;">
+      🌐
+    </span>
+    VIEW MY PORTFOLIO
+  </a>
+</p>
+
+
+<br>
+
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with Me</h2>
 
 <p align="center">
