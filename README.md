@@ -30,22 +30,12 @@
 
 <br>
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://github.com/adrianrochacon" target="_blank" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    padding: 12px 20px;
-    background-color: #8e44ad;
-    color: white;
-    font-weight: 600;
-    text-decoration: none;
-    border-radius: 10px;
-    font-family: 'Segoe UI', sans-serif;
-    transition: background 0.3s ease;">
-    VIEW MY PORTFOLIO
+<p align="center">
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-8e44ad?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View My Portfolio" />
   </a>
 </p>
+
 
 
 <br>
